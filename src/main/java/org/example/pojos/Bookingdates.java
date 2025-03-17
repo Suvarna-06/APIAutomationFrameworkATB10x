@@ -1,4 +1,4 @@
-package org.example.ex01_RA_Basic.ex10_PayloadManagment.gson;
+package org.example.pojos;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 public class Bookingdates {
