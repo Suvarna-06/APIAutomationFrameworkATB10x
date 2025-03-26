@@ -80,7 +80,8 @@ Integration Test (Create BookinG and Create Token , Update and Delete Booking)
    
 📊 Allure Report Setup 📊
 
-<img width="571" alt="image" src="https://github.com/user-attachments/assets/c2a959de-3d10-4a25-9bac-86bfc412aa5c" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d1ddf0b7-f7b1-448a-a6ce-e27146e4b982" />
+
 
 
 Certainly! I'll guide you through the steps to install Allure and generate a report for a Java project using TestNG. Here's a step-by-step process:
