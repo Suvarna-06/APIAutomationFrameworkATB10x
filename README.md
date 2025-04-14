@@ -1,6 +1,7 @@
 🚀 API Automation Framework with RestAssured (Java) 🚀
 
 Author - Sandhya Sankeshwar
+
 API Automation Framework with the CRUD of Restful Booker
 
 mvn test -Dsurefire.suiteXmlFiles=testng.xml
