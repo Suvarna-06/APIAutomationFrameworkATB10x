@@ -9,6 +9,7 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/0abd85fb-d987-4759-99fc-4df5005976ce" />
 
 
+
 🛠️ Tech Stack 🛠️
 
 1. Java (JDK > 22)
