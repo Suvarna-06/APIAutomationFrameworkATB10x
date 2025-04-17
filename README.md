@@ -89,15 +89,17 @@ Integration Test (Create BookinG and Create Token , Update and Delete Booking)
 Certainly! I'll guide you through the steps to install Allure and generate a report for a Java project using TestNG. Here's a step-by-step process:
 
 1. Install Allure
+   
 First, you need to install Allure Command Line Tool. If you're using a Mac, you can use the following Brew command:
 
 brew install allure
 For other operating systems, please refer to the official Allure documentation for installation instructions.
 
 2. Set up your Java project
+   
 Ensure you have a Java project set up with TestNG. If not, create a new Maven project and add the necessary dependencies.
 
-3. Add Allure dependencies
+4. Add Allure dependencies
    
 Add the following dependencies to your pom.xml file:
 
